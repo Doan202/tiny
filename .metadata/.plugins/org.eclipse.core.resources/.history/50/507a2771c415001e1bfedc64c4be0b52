@@ -1,0 +1,16 @@
+package oop;
+
+public class programMeo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		meo meoCon=new meo();
+		cun cunCon=new cun();
+		meoCon.keu();
+		meoCon.keu("tao la meo");
+		meoCon.an();
+		meoCon.ngu();
+		cunCon.ngu();
+	}
+
+}

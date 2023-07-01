@@ -1,0 +1,9 @@
+package oop;
+
+public class dongVat {
+
+	public void an() {
+		System.out.println("an keo");
+	}
+
+}

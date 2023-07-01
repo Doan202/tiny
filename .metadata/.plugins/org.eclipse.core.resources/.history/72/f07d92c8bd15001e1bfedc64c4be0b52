@@ -1,0 +1,14 @@
+package oop;
+
+public class meo {
+	public String ten;
+	public String mauLong;
+	public String tuoi;
+
+	public void keu() {
+		System.out.println("mew mew");
+	}
+	public void keu(String tiengNguoi) {
+		System.out.println(tiengNguoi);
+	}
+}

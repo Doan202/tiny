@@ -1,0 +1,12 @@
+package oop;
+
+public class dongVat {
+
+	public void an() {
+		System.out.println("an keo");
+	}
+	public void ngu() {
+		System.out.println("kho kho");
+	}
+
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javaCollection.timSNT"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="java.awt.Checkbox"/>
+    <fullyQualifiedTypeName name="java.security.spec.DSAGenParameterSpec"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="funcion.tich"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="funcion.tongMang"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicIntegerArray"/>
+    <fullyQualifiedTypeName name="funcion.sapxep"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="funcion.nhapsonguyen"/>
+    <fullyQualifiedTypeName name="java.lang.VirtualMachineError"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="oop.monAn"/>
+    <fullyQualifiedTypeName name="oop.meo"/>
+    <fullyQualifiedTypeName name="oop.cun"/>
+    <fullyQualifiedTypeName name="oop.dongVat"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="java.security.PrivateKey"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="oop.soThuc"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+</qualifiedTypeNameHistroy>
