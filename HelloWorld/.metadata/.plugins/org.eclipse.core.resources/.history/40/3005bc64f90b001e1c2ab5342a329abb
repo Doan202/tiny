@@ -1,0 +1,21 @@
+import java.security.KeyStore.Entry;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import javax.management.ValueExp;
+import javax.sound.midi.Soundbank;
+import javax.swing.text.html.parser.Entity;
+
+public class String_string {
+
+	private static Object key;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Map<String, String>map=new HashMap<String,String>();
+		map.put("viet nam", "ha noi");
+		map.put("hoa ky", "haiphong");
+		map.put("han quoc ", "da nang");
+		System.out.println(map.get(key)+"la thu do cua"+
+	}
+}

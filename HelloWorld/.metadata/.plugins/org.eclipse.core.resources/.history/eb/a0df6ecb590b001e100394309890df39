@@ -1,0 +1,23 @@
+package set2;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
+
+public class setthudo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HashMap<String,String>map=new HashMap<String,String>();
+		map.put("ha noi","viet nam");
+		map.put("seul", "Han quoc");
+		map.put("bac kinh","trung quoc");
+		Iterator<Map.Entry<String, String>> iterator=map.entrySet().iterator();
+		while (iterator.hasNext()) {
+			var item=iterator.next();
+		System.out.println(item.getKey()+" la thu do cua "+item.getValue());
+		}
+	}
+
+}

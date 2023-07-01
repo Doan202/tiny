@@ -1,0 +1,22 @@
+package list;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class daoNguocds {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<String> so = new ArrayList<>();
+		so.add("tao");
+		so.add("oi");
+		so.add("mit");
+		so.add("dua");
+		Collections.reverse(so);
+		for (int i = 0; i < so.size(); i++) {
+			System.out.println(so);
+			break;
+		}
+	}
+}

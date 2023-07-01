@@ -1,0 +1,21 @@
+package set2;
+
+import java.util.HashMap;
+
+public class themphantu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HashMap<Integer, String> mau1 = new HashMap<>();
+		mau1.put(1, "red");
+		mau1.put(2, "green");
+		mau1.put(3, "blue");
+		HashMap<Integer, String> mau2 = new HashMap<>();
+		mau2.put(4, "white");
+		mau2.put(5, "black");
+		mau2.put(6, "oranger");
+		mau1.putAll(mau2);
+		System.out.println(mau1);
+	}
+
+}

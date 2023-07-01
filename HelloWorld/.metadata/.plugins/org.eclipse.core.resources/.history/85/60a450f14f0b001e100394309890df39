@@ -1,0 +1,17 @@
+package list;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.ListIterator;
+
+public class iterator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<Integer> list1 = new ArrayList<>(List.of(1, 4, 7, 8, 9, 6, 3, 2, 5));
+		ListIterator<Integer> listIterator = list1.listIterator(list1.size());
+		while (listIterator.hasPrevious()) {
+			System.out.println(listIterator.hasPrevious());
+		}
+	}
+}

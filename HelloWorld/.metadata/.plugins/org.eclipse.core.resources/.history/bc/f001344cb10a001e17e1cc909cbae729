@@ -1,0 +1,15 @@
+package list;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class daoNguocds {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	ArrayList<String> so =new ArrayList<>(List.of("tao,cam,oi,mit"));
+	Collections.reverse(so);
+	System.out.println(so);
+	}
+}

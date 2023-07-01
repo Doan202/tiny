@@ -1,0 +1,24 @@
+package list;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class daoNguocds {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<Integer> so = new ArrayList<>();
+		so.add(3);
+		so.add(5);
+		so.add(7);
+		so.add(78);
+		int max = Integer.MAX_VALUE;
+		for (Integer integer : so) {
+			if (integer > max) {
+				max = integer;
+			}
+		}
+		System.out.println(max);
+	}
+}

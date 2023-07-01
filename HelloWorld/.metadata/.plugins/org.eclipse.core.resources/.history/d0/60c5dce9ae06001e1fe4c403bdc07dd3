@@ -1,0 +1,23 @@
+package set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class kiemTraPhanTu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Set<String> hoaqua = new HashSet<>();
+		hoaqua.add("cam");
+		hoaqua.add("quyt");
+		hoaqua.add("mit");
+		hoaqua.add("dua");
+		hoaqua.add("dua");
+		hoaqua.add("le");
+		hoaqua.add("tao");
+		hoaqua.add("oi");
+		hoaqua.add("chanh");
+		System.out.println("phan tu tren co rong khong"+hoaqua.contains(hoaqua));
+	}
+
+}
